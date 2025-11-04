@@ -1,3 +1,2 @@
 # portfolio
-#output
-![portfolio](file:///D:/portfolio/index.html)
+file:///D:/portfolio/index.html
